@@ -23,3 +23,6 @@
     - JVM
     - Core libraries
   - It does not include development tools like compilers or debuggers.
+  - [[JMM]]
+  - [[GC]]
+  - [[JIT]]
