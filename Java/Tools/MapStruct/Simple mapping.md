@@ -5,7 +5,7 @@
 # Object mapping 
 #Mapper, #Mapping
 ## Description 
-How to map two objects with the same and different field names of the same data type 
+How to map two objects with **the same** and **different** field names of the same data type 
 ### With the same names
 ```java 
 @Mapper(componentModel = "spring")  

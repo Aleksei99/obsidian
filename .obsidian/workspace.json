@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Tools/MapStruct/Complex mapping.md",
+                "file": "Java/Tools/MapStruct/Simple mapping.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Tools/MapStruct/Complex mapping.md",
+                "file": "Java/Tools/MapStruct/Simple mapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Tools/MapStruct/Complex mapping.md",
+                "file": "Java/Tools/MapStruct/Simple mapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Tools/MapStruct/Complex mapping.md"
+                "file": "Java/Tools/MapStruct/Simple mapping.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "b73ac5e15294099f",
   "lastOpenFiles": [
-    "Java/Tools/MapStruct/Simple mapping.md",
     "Java/Tools/MapStruct/Complex mapping.md",
+    "Java/Tools/MapStruct/Simple mapping.md",
     "Templates/Creation.md",
     "Templates/Java Feature.md",
     "Java/Tools/MapStruct/Untitled 1.md",
