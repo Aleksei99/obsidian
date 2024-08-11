@@ -3,6 +3,7 @@
 > [!quote] True friendship ought never to conceal what it thinks.
 > — Jerome
 #### JMM (Java Memory Model)
+#JMM
 - **Overview**: Describes how threads in the Java programming language interact through memory and what behaviors are allowed in concurrent execution.
 - **Memory Types**:
   - **Heap Memory**:
@@ -19,3 +20,5 @@
     - Points to the next instruction to be executed.
   - **Native Method Stacks**:
     - Used for native method invocations.
+
+![[Pasted image 20240811112154.png]]

@@ -3,7 +3,7 @@
 > [!quote] Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.
 > — Satchel Paige
 #### JDK, JVM, JRE
-
+#JDK, #JVM, #JRE
 - **JDK (Java Development Kit)**:
   - A software development environment used for developing Java applications and applets.
   - Includes:
@@ -23,6 +23,7 @@
     - JVM
     - Core libraries
   - It does not include development tools like compilers or debuggers.
+
   - [[JMM]]
   - [[GC]]
   - [[JIT]]
