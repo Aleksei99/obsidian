@@ -1,4 +1,4 @@
-#creation_date:  2024-08-11 00:28
+-#creation_date:  2024-08-11 00:28
 #modification_date: Sunday 11th August 2024 00:28:58
 > [!quote] True friendship ought never to conceal what it thinks.
 > — Jerome
@@ -19,3 +19,5 @@
     - Points to the next instruction to be executed.
   - **Native Method Stacks**:
     - Used for native method invocations.
+
+![[Pasted image 20240811094858.png|600]]
