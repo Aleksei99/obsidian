@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Basics/JMM.md",
+                "file": "Java/Basics/JMM/JMM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Basics/JMM.md",
+                "file": "Java/Basics/JMM/JMM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Basics/JMM.md",
+                "file": "Java/Basics/JMM/JMM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Basics/JMM.md"
+                "file": "Java/Basics/JMM/JMM.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "b73ac5e15294099f",
   "lastOpenFiles": [
+    "Java/Basics/JMM/Old Generation.md",
+    "Java/Basics/JMM/Young Generation.md",
+    "Java/Basics/JMM/JMM.md",
+    "Java/Basics/JMM",
     "Java/Basics/JVM.md",
-    "Java/Basics/JMM.md",
     "Java/Basics/JIT.md",
     "Java/Basics/GC.md",
     "Cache/Pasted image 20240811112154.png",
@@ -171,7 +174,6 @@
     "sdsds.md",
     "Java/Concurrency",
     "Java/Data structures",
-    "Java/OOP",
     "Java/Mapping.md",
     "create a link.md",
     "Welcome.md"
