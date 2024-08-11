@@ -21,4 +21,4 @@
   - **Native Method Stacks**:
     - Used for native method invocations.
 
-![[Pasted image 20240811112154.png]]
+![[Pasted image 20240811112154.png|1000]]
