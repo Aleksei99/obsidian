@@ -19,5 +19,3 @@
     - Points to the next instruction to be executed.
   - **Native Method Stacks**:
     - Used for native method invocations.
-
-![[Pasted image 20240811111638.png]]
