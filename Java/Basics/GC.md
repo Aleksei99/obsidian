@@ -3,6 +3,7 @@
 > [!quote] Get busy living or get busy dying.
 > — Stephen King
 #### GC (Garbage Collection) Algorithms
+#garbage_collector, #GC
 - **Overview**: Automatic memory management feature in Java that reclaims memory occupied by unreachable objects.
 - **Common Algorithms**:
   - **Serial GC**:

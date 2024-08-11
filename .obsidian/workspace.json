@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Tools/MapStruct/Simple mapping.md",
+                "file": "Java/Basics/JMM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Tools/MapStruct/Simple mapping.md",
+                "file": "Java/Basics/JMM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Tools/MapStruct/Simple mapping.md",
+                "file": "Java/Basics/JMM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Tools/MapStruct/Simple mapping.md"
+                "file": "Java/Basics/JMM.md"
               }
             }
           }
@@ -149,6 +149,11 @@
   },
   "active": "b73ac5e15294099f",
   "lastOpenFiles": [
+    "Cache/Pasted image 20240811112154.png",
+    "Java/Basics/JMM.md",
+    "Java/Basics/JVM.md",
+    "Java/Basics/JIT.md",
+    "Java/Basics/GC.md",
     "Java/Tools/MapStruct/Complex mapping.md",
     "Java/Tools/MapStruct/Simple mapping.md",
     "Templates/Creation.md",

@@ -3,6 +3,7 @@
 > [!quote] Freedom is what you do with what's been done to you.
 > — Jean-Paul Sartre
 #### JIT (Just-In-Time) Compilation
+#JIT
 - **Overview**: Part of the JVM that improves the performance of Java applications by compiling bytecode into native machine code at runtime.
 - **Types of JIT Compilers**:
   - **Client Compiler (C1)**:
