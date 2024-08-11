@@ -3,6 +3,7 @@
 > [!quote] The only limit to our realization of tomorrow will be our doubts of today.
 > — Franklin D. Roosevelt
 
+#old_gen, #GC 
 ```mermaid
 flowchart TD
     A[Old Generation] --> |Survived many Minor GC cycles| B(Major GC)

@@ -4,6 +4,7 @@
 > — Charles Dickens
 
 ## Young Generation
+#young_gen, #GC 
 
 ```mermaid
 flowchart TD
@@ -28,4 +29,4 @@ flowchart TD
 - **Survivor Spaces**: There are two survivor spaces. After Minor GC, survivor objects are moved between these two spaces.
     - **Empty Survivor Space**: At any given time, one of the survivor spaces is empty, as objects are moved between them.
 - **Minor GC**: This is the garbage collection process that occurs when the Eden space is filled.
-- **Old Generation**: Objects that survive several cycles of Minor GC are moved to the old generation memory space. This usually happens after the objects reach a certain age threshold in the young generation.
+- **[[Old Generation]]**: Objects that survive several cycles of Minor GC are moved to the old generation memory space. This usually happens after the objects reach a certain age threshold in the young generation.

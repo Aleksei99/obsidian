@@ -3,6 +3,7 @@
 > [!quote] True friendship ought never to conceal what it thinks.
 > — Jerome
 #### JMM (Java Memory Model)
+#JMM
 - **Overview**: Describes how threads in the Java programming language interact through memory and what behaviors are allowed in concurrent execution.
 - **Memory Types**:
   - **Heap Memory**:
@@ -22,5 +23,7 @@
 
 ![[Pasted image 20240811112154.png|700]]
 
-[[Young Generation]]
-[[Old Generation]]
+[Source](https://www.digitalocean.com/community/tutorials/java-jvm-memory-model-memory-management-in-java)
+![[Young Generation]]
+
+![[Old Generation]]

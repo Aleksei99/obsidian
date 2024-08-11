@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Basics/JMM/JMM.md",
+                "file": "Java/Basics/JVM/Linking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "292849f9192afe2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Basics/JVM/Linking.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Basics/JMM/JMM.md",
+                "file": "Java/Basics/JVM/Linking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Basics/JMM/JMM.md",
+                "file": "Java/Basics/JVM/Linking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Basics/JMM/JMM.md"
+                "file": "Java/Basics/JVM/Linking.md"
               }
             }
           }
@@ -144,18 +157,27 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b73ac5e15294099f",
+  "active": "292849f9192afe2c",
   "lastOpenFiles": [
-    "Java/Basics/JMM/Old Generation.md",
-    "Java/Basics/JMM/Young Generation.md",
+    "Java/Basics/JVM/JVM Architecture.md",
+    "Java/Basics/JVM/Loading.md",
+    "Java/Basics/JVM/Linking.md",
+    "Java/Basics/JVM/Drawing 2024-08-11 13.23.26.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-11 13.28.16.excalidraw.md",
+    "Java/Basics/JVM/JVM.md",
+    "Excalidraw/Drawing 2024-08-11 13.22.22.excalidraw.md",
+    "Excalidraw",
+    "Java/Basics/JVM",
     "Java/Basics/JMM/JMM.md",
-    "Java/Basics/JMM",
-    "Java/Basics/JVM.md",
+    "Java/Basics/JMM/Young Generation.md",
+    "Java/Basics/JMM/Old Generation.md",
     "Java/Basics/JIT.md",
     "Java/Basics/GC.md",
+    "Java/Basics/JMM",
     "Cache/Pasted image 20240811112154.png",
     "Java/Tools/MapStruct/Complex mapping.md",
     "Java/Tools/MapStruct/Simple mapping.md",
@@ -172,8 +194,6 @@
     "Java/Frameworks",
     "Java/Basics/Untitled.canvas",
     "sdsds.md",
-    "Java/Concurrency",
-    "Java/Data structures",
     "Java/Mapping.md",
     "create a link.md",
     "Welcome.md"
