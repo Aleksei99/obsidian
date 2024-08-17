@@ -17,3 +17,6 @@
 })  
 private ConsultationFollowUp consultationFollowUp;
 ```
+
+
+![[Embeddable]]

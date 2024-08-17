@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "08f6bb0e10259acf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kafka/Basics/Kafka message anatomy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "292849f9192afe2c",
             "type": "leaf",
             "state": {
@@ -32,37 +44,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "d97b66993d0a1b5b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "08f6bb0e10259acf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Java Feature.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b73ac5e15294099f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/DB/JPA/Embedded.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/DB/JPA/Embeddable.md",
+                "file": "Kafka/Basics/Kafka message anatomy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/DB/JPA/Embeddable.md",
+                "file": "Kafka/Basics/Kafka message anatomy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/DB/JPA/Embeddable.md"
+                "file": "Kafka/Basics/Kafka message anatomy.md"
               }
             }
           }
@@ -191,13 +172,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "292849f9192afe2c",
+  "active": "08f6bb0e10259acf",
   "lastOpenFiles": [
+    "Kafka/Basics/Kafka message anatomy.md",
+    "Kafka/Basics/Partitions.md",
+    "Kafka/Basics/Producers.md",
+    "Cache/Pasted image 20240817132201.png",
+    "Kafka/Basics/Topics.md",
+    "Cache/Pasted image 20240817131712.png",
+    "Cache/Pasted image 20240817131236.png",
+    "Cache/Pasted image 20240817130613.png",
+    "Kafka/Basics/Partitions and offsets.md",
+    "Cache/Pasted image 20240817125342.png",
+    "Cache/Pasted image 20240817123838.png",
+    "Templates/Java Feature.md",
+    "Kafka/Basics",
+    "Kafka",
+    "2024-08-17.md",
     "Java/DB/JPA/Embedded.md",
     "Java/DB/JPA/Embeddable.md",
     "Excalidraw/Drawing 2024-08-17 10.10.16.excalidraw.md",
     "Excalidraw/Drawing 2024-08-17 10.10.32.excalidraw.md",
-    "Templates/Java Feature.md",
     "Templates/Creation.md",
     "Java/Frameworks/Spring/Feign/ErrorDecoder.md",
     "Java/Tools/Lombok/SuperBuilder.md",
@@ -216,20 +211,11 @@
     "Java/Basics/JMM/Old Generation.md",
     "Java/Basics/JMM/JMM.md",
     "Java/Basics/JVM/JVM.md",
-    "Java/Basics/JIT.md",
-    "Java/Basics/JVM/JVM Architecture.md",
-    "Java/Basics/JVM/Loading.md",
-    "Java/Basics/JVM/Drawing 2024-08-11 13.23.26.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-11 13.28.16.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-11 13.22.22.excalidraw.md",
     "Excalidraw",
     "Java/Basics/JVM",
-    "Java/Basics/GC.md",
     "Java/Basics/JMM",
     "Cache/Pasted image 20240811112154.png",
     "Templates",
-    "Java/Tools/MapStruct",
-    "Java/Frameworks/Spring",
     "Java/Basics/Untitled.canvas"
   ]
 }
