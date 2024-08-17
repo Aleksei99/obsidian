@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "Cache",
   "alwaysUpdateLinks": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "newFileLocation": "current"
 }

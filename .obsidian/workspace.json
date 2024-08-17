@@ -8,24 +8,54 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b73ac5e15294099f",
+            "id": "292849f9192afe2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Basics/JVM/Linking.md",
+                "file": "Java/DB/JPA/Embeddable.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "292849f9192afe2c",
+            "id": "cd73df9438b2dad4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Basics/JVM/Linking.md",
+                "file": "Templates/Java Feature.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d97b66993d0a1b5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08f6bb0e10259acf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Java Feature.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b73ac5e15294099f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/DB/JPA/Embedded.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Basics/JVM/Linking.md",
+                "file": "Java/DB/JPA/Embeddable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Basics/JVM/Linking.md",
+                "file": "Java/DB/JPA/Embeddable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Basics/JVM/Linking.md"
+                "file": "Java/DB/JPA/Embeddable.md"
               }
             }
           }
@@ -163,39 +193,43 @@
   },
   "active": "292849f9192afe2c",
   "lastOpenFiles": [
+    "Java/DB/JPA/Embedded.md",
+    "Java/DB/JPA/Embeddable.md",
+    "Excalidraw/Drawing 2024-08-17 10.10.16.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-17 10.10.32.excalidraw.md",
+    "Templates/Java Feature.md",
+    "Templates/Creation.md",
+    "Java/Frameworks/Spring/Feign/ErrorDecoder.md",
+    "Java/Tools/Lombok/SuperBuilder.md",
+    "Java/Frameworks/Spring/Feign/Feign usage.md",
+    "Java/DB/JPA/New.md",
+    "Java/DB/JPA",
+    "Java/DB",
+    "Java/Tools/Lombok",
+    "Java/Frameworks/Spring/Feign/Feign config.md",
+    "Java/Basics/JVM/Linking.md",
+    "Java/Tools/MapStruct/Complex mapping.md",
+    "Untitled.md",
+    "Java/Tools/MapStruct/Simple mapping.md",
+    "Java/Frameworks/Spring/Feign",
+    "Java/Basics/JMM/Young Generation.md",
+    "Java/Basics/JMM/Old Generation.md",
+    "Java/Basics/JMM/JMM.md",
+    "Java/Basics/JVM/JVM.md",
+    "Java/Basics/JIT.md",
     "Java/Basics/JVM/JVM Architecture.md",
     "Java/Basics/JVM/Loading.md",
-    "Java/Basics/JVM/Linking.md",
     "Java/Basics/JVM/Drawing 2024-08-11 13.23.26.excalidraw.md",
     "Excalidraw/Drawing 2024-08-11 13.28.16.excalidraw.md",
-    "Java/Basics/JVM/JVM.md",
     "Excalidraw/Drawing 2024-08-11 13.22.22.excalidraw.md",
     "Excalidraw",
     "Java/Basics/JVM",
-    "Java/Basics/JMM/JMM.md",
-    "Java/Basics/JMM/Young Generation.md",
-    "Java/Basics/JMM/Old Generation.md",
-    "Java/Basics/JIT.md",
     "Java/Basics/GC.md",
     "Java/Basics/JMM",
     "Cache/Pasted image 20240811112154.png",
-    "Java/Tools/MapStruct/Complex mapping.md",
-    "Java/Tools/MapStruct/Simple mapping.md",
-    "Templates/Creation.md",
-    "Templates/Java Feature.md",
-    "Java/Tools/MapStruct/Untitled 1.md",
     "Templates",
     "Java/Tools/MapStruct",
-    "Java/Frameworks/Spring/Untitled.md",
     "Java/Frameworks/Spring",
-    "Java/Tools",
-    "Java/TroubleShooting",
-    "Java/Best pactices",
-    "Java/Frameworks",
-    "Java/Basics/Untitled.canvas",
-    "sdsds.md",
-    "Java/Mapping.md",
-    "create a link.md",
-    "Welcome.md"
+    "Java/Basics/Untitled.canvas"
   ]
 }

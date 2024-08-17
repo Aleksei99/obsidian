@@ -1,6 +1,6 @@
 {
   "cssTheme": "Material Gruvbox",
-  "baseFontSize": 20,
+  "baseFontSize": 14,
   "theme": "moonstone",
   "accentColor": "#7fc3b2",
   "baseFontSizeAction": true
