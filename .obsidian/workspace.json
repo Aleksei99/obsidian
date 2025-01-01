@@ -72,9 +72,23 @@
               "icon": "lucide-file",
               "title": "Cheat sheet"
             }
+          },
+          {
+            "id": "9de5a226fdbcadb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ubuntu/Net commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Net commands"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -217,11 +231,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "48d4fcdf148fd20f",
+  "active": "9de5a226fdbcadb8",
   "lastOpenFiles": [
+    "Ubuntu/Cheat sheet.md",
+    "Ubuntu/Net commands.md",
     "Cache/Ubuntu Server CLI cheat sheet 2024 v6.pdf",
     "git/Git config.md",
-    "Ubuntu/Cheat sheet.md",
     "Ubuntu",
     "Excalidraw/Drawing 2024-11-06 09.43.07.excalidraw.md",
     "Java/Basics/JIT.md",
@@ -260,7 +275,6 @@
     "Kafka/Basics",
     "Kafka",
     "2024-08-17.md",
-    "Java/DB/JPA",
     "Cache/Pasted image 20240811112154.png",
     "Java/Basics/Untitled.canvas"
   ]
