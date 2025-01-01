@@ -831,5 +831,41 @@
   "longPressDesktop": 500,
   "longPressMobile": 500,
   "isDebugMode": false,
-  "rank": "Bronze"
+  "rank": "Bronze",
+  "fontAssetsPath": "Excalidraw/CJK Fonts",
+  "loadChineseFonts": false,
+  "loadJapaneseFonts": false,
+  "loadKoreanFonts": false,
+  "overrideObsidianFontSize": false,
+  "penModeDoubleTapEraser": true,
+  "penModeSingleFingerPanning": true,
+  "pdfFrame": false,
+  "gridSettings": {
+    "DYNAMIC_COLOR": true,
+    "COLOR": "#000000",
+    "OPACITY": 50
+  },
+  "markdownNodeOneClickEditing": false,
+  "doubleClickLinkOpenViewMode": true,
+  "modifierKeyOverrides": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "k"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
+    }
+  ],
+  "showSplashscreen": true
 }
